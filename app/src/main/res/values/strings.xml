@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DICOMView</string>
+
+    <string name="pacs_api_patient">patients</string>
+    <string name="pacs_api_studies">studies</string>
+    <string name="pacs_api_series">series</string>
+    <string name="pacs_api_instances">instances</string>
+
+
+</resources>
